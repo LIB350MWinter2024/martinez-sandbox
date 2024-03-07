@@ -1,15 +1,14 @@
 field,display_name,browse_link,external_link
-objectid,Title,,
-youtubeid,Youtube Id,,
+objectid,,,
+youtubeid,Youtube Id,,true 
 title,Title,,
 filename,File Name,,
 format,Format,,
 creator,Creator,,
 date,Date,,
-datecreated,Date Created,,
 description,Description,,
 image_alt_text,Alt Text,,
-subject,Subject,,
+subject,Subject,true,
 location,Location,,
 source,Source,,
 type,Work Type,,
